@@ -96,3 +96,27 @@ Handles unknown inputs with a default response.
 Python.
 
 ---
+#CodeAlpha Task2 
+#Task Automation with Python Scripts
+
+#Email Extractor using Python
+
+This project reads a text file and extracts all email addresses using Python regular expressions. The extracted email addresses are saved into a separate output file.
+
+-----
+
+#Technologies Used:
+
+- Python
+- Regular Expressions (re)
+- File Handling
+  
+  ---
+
+#Features:
+
+- Reads text from a file
+- Identifies valid email addresses
+- Saves extracted emails to a new file
+
+  ---
